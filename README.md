@@ -17,7 +17,9 @@ This process also uses a local webcam. The program uses the Haar Cascade classif
 # Setup
 part 1 with anaconda:
 conda create -n ergonomy python=3.7
+
 conda activate ergonomy
+
 python -m pip install mediapipe
 
 part 2 with pip
