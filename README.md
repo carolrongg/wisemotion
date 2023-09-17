@@ -23,6 +23,7 @@ conda activate ergonomy
 
 python -m pip install mediapipe
 
+
 part 2 with pip
 
 pip install opencv-python
